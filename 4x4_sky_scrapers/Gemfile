@@ -1,0 +1,14 @@
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+
+git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
+
+gem 'byebug', '~> 11.1'
+gem 'codewars-kata', path: '~/Gems/codewars-kata'
+
+gem 'rubocop', '~> 1.24'
+
+gem 'guard', '~> 2.18'
+
+gem 'guard-rspec', '~> 4.7'
