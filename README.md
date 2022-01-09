@@ -2,4 +2,4 @@
 
 ## Completed Katas
 
-* [Training on 4 By 4 Skyscrapers](./training_on_4_by_4_skyscrapers)
+* [Training on 4 By 4 Skyscrapers](./training_on_4x4_sky_scrapers)
